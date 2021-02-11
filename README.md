@@ -1,3 +1,6 @@
+For original ReadMe please see https://docs.google.com/document/d/1ZBkkSuZlInYmUmbqIrgEwIWX2W8cIa5mqVM-xvCqxVw/edit?usp=sharing 
+
+
 # Project-2-Neural-Net-Methods-P2
 
 
